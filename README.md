@@ -1,6 +1,6 @@
 # LeetCodeExplorer ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 
-CIT 5940 Data Structures &amp; Software Design - Final Project. We currently use this repo instead of LeetCodeExplorerNew
+This is a project that focuses on data structures.
 
 ## 🚀 Running LeetCodeExploere
 
