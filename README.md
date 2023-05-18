@@ -1,6 +1,6 @@
 # LeetCodeExplorer ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 
-This is a project that focuses on data structures.
+This is a project that focuses on the use of data structures.
 
 ## 🚀 Running LeetCodeExploere
 
