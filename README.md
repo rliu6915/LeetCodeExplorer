@@ -1,6 +1,6 @@
 # LeetCodeExplorer ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 
-This is a project that focuses on the use of data structures.
+CIT 5940 Data Structures &amp; Software Design - Final Project. We currently use this repo instead of LeetCodeExplorerNew
 
 ## 🚀 Running LeetCodeExploere
 
@@ -27,3 +27,5 @@ This is a project that focuses on the use of data structures.
     - Browse to the folder where you saved the JAR files, select all the JAR files you downloaded, and click "Open". Click "Apply and Close" in the Properties window.
 
 4. Run `ExplorerUI` with argument `leetcode_dataset.csv` and get customized experience exploring LeetCode problems!
+
+## [Slides](https://docs.google.com/presentation/d/1Is3IqZ233_8907uQX_GoTMk66cFU1yWh5VWjWn6PmjA/edit#slide=id.g24142c0a82a_0_5)
